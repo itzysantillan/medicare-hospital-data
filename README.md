@@ -6,11 +6,12 @@ The particular subset of data covered in the three functions is contained in the
 
 ## Summary of functions
 There are a total of three functions. 
-Function  | Description
-------------- | -------------
-best.R  | Returns the name of the hospital that has the best (i.e. lowest) 30-day mortality for the specified outcome in that state
-rankhospital.R  | Returns the name of the hospital that has the specified ranking
-rankall.R | Returns a 2-column data frame containing the hospital in each state that has the specified ranking
+
+Function | Description
+---- | ----
+*best.R:* | Returns the name of the hospital that has the best (i.e. lowest) 30-day mortality for the specified outcome in that state
+*rankhospital.R:* | Returns the name of the hospital that has the specified ranking
+*rankall.R:* | Returns a 2-column data frame containing the hospital in each state that has the specified ranking
 
 ## Credit
 This repository was created as part of an assignment for the Johns Hopkins R Programming course on Coursera.
